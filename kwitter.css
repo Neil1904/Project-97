@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right, #d13cd1, #a32ce7, #1f43e7, #32acf3, #0eeccf);
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
 }
 
 .header
@@ -82,6 +82,11 @@ background-image: linear-gradient(to right, #d13cd1, #a32ce7, #1f43e7, #32acf3, 
 .color_white
 {
 	color: white
+}
+
+.user_tick
+{
+	width:20px;
 }
 .message_h4
 {
